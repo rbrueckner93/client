@@ -194,7 +194,7 @@ Diese Funktion ist nur für Wartungszwecke gedacht. Es werden keine Dateien entf
     <message>
         <location filename="../src/mirall/accountsettings.cpp" line="488"/>
         <source>The syncing operation is running.&lt;br/&gt;Do you want to terminate it?</source>
-        <translation>Die Synchronistation läuft gerade.&lt;br/&gt;Wollen Sie diese beenden?</translation>
+        <translation>Die Synchronisation läuft gerade.&lt;br/&gt;Wollen Sie diese beenden?</translation>
     </message>
     <message>
         <location filename="../src/mirall/accountsettings.cpp" line="608"/>
@@ -436,7 +436,7 @@ Sind Sie sicher, dass sie diese Operation durchführen wollen?</translation>
     <message>
         <location filename="../src/mirall/folderman.cpp" line="960"/>
         <source>Waits to start syncing.</source>
-        <translation>Wartet auf Beginn der Synchronistation</translation>
+        <translation>Wartet auf Beginn der Synchronisation</translation>
     </message>
     <message>
         <location filename="../src/mirall/folderman.cpp" line="963"/>
@@ -1159,7 +1159,7 @@ Es ist nicht ratsam, diese zu benutzen.</translation>
     <message>
         <location filename="../src/mirall/owncloudsetupwizard.cpp" line="245"/>
         <source>Local sync folder %1 already exists, setting it up for sync.&lt;br/&gt;&lt;br/&gt;</source>
-        <translation>Lokaler Sync-Ordner %1 existiert bereits, aktiviere Synchronistation.&lt;br/&gt;&lt;br/&gt;</translation>
+        <translation>Lokaler Sync-Ordner %1 existiert bereits, aktiviere Synchronisation.&lt;br/&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="../src/mirall/owncloudsetupwizard.cpp" line="247"/>
@@ -2622,7 +2622,7 @@ Es ist nicht ratsam, diese zu benutzen.</translation>
     <message>
         <location filename="../src/mirall/theme.cpp" line="54"/>
         <source>Waiting to start sync</source>
-        <translation>Warte, um mit der Synchronistation zu beginnen</translation>
+        <translation>Warte, um mit der Synchronisation zu beginnen</translation>
     </message>
     <message>
         <location filename="../src/mirall/theme.cpp" line="57"/>
